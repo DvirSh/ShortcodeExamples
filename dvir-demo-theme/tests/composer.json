@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lucatume/function-mocker": "~1.0"
+    }
+}
