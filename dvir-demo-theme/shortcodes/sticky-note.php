@@ -55,7 +55,7 @@ function sticky_note( $attributes, $content = false ){
     <div class="sticky-note">
       <div class="tape" style="background-color: <?php echo $attributesMap[color]; ?>"></div>
       <div class="content">
-        <p><?php echo do_shortcode($content); ?></p>
+        <p><?php echo $content; ?></p>
       </div>
     </div>
   <?php
