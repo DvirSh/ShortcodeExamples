@@ -1,9 +1,9 @@
 <?php
-require_once('shortcodes/hello-world.php');
-require_once('shortcodes/demo-with-attributes.php');
-require_once('shortcodes/demo-with-content.php');
-require_once('shortcodes/demo-with-ob.php');
-require_once('shortcodes/sticky-note.php');
+require_once('shortcodes/1.hello-world.php');
+require_once('shortcodes/2.star-wars-opening.php');
+require_once('shortcodes/3.star-wars-opening-with-content.php');
+require_once('shortcodes/4.star-wars-opening-with-ob.php');
+require_once('shortcodes/5.sticky-note.php');
 add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
 function my_theme_enqueue_styles() {
   $parent_style = 'parent-style';

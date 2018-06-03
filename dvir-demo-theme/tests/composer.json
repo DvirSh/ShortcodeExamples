@@ -1,5 +1,6 @@
 {
     "require": {
-        "lucatume/function-mocker": "~1.0"
+        "lucatume/function-mocker": "~1.0",
+        "phpunit/phpunit": "*"        
     }
 }
