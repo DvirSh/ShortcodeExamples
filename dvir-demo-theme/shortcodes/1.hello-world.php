@@ -2,6 +2,6 @@
 add_shortcode('demo', 'demo_func');
 
 function demo_func() {
-	return "Hello PressForWord!";
+	return "Hello Press4Word!";
 }
 ?>

@@ -13,7 +13,7 @@ final class HelloWorldTest extends TestCase
   {
     require_once('../shortcodes/1.hello-world.php');
     $this->assertEquals(
-      'Hello PressForWord!',
+      'Hello Press4Word!',
       demo_func()
     );
   }
