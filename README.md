@@ -2,7 +2,7 @@
 A few shortcodes examples for Wordpress conference, 6.6.2018
 
 ## Before you begin
-- Make sure you have wordpress setup and running - it can be locally using [DesktopServer]() or a [docker image](), or even hosted somewhere else like [WP engine]().
+- Make sure you have wordpress setup and running - it can be locally using [DesktopServer](https://serverpress.com/) or a [docker image](https://hub.docker.com/_/wordpress/), or even hosted somewhere else like [WP engine](https://wpengine.com/).
 
 - Make sure you have a theme to work on. If you want to know how to create a child theme and where to place your code, you can find the information [here](https://codex.wordpress.org/Child_Themes).
 
